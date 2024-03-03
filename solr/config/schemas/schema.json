@@ -1,0 +1,213 @@
+{
+    "add-dynamic-field": [
+        {
+            "name": "*_l_ns",
+            "type": "plong",
+            "indexed": true,
+            "stored": false
+        },
+        {
+            "name": "*_s_ns",
+            "type": "string",
+            "indexed": true,
+            "stored": false
+        }
+    ],
+    "add-field-type": [
+        {
+            "name": "text_list",
+            "class": "solr.TextField",
+            "multiValued": true,
+            "indexAnalyzer": {
+                "tokenizer": {
+                    "class": "solr.StandardTokenizerFactory"
+                },
+                "filters":[
+                    {
+                        "class":"solr.ASCIIFoldingFilterFactory", 
+                        "preserveOriginal": false
+                    },
+                    {
+                        "class":"solr.LowerCaseFilterFactory" 
+                    }
+                ]
+            }
+        },
+        {
+            "name": "date_field",
+            "class": "solr.DatePointField",
+            "multiValued": false
+        },
+        {
+            "name":"price_field",
+            "class":"solr.CurrencyFieldType",
+            "defaultCurrency": "USD",
+            "currencyConfig": "currency.xml",
+            "amountLongSuffix": "_l_ns",
+            "codeStrSuffix": "_s_ns"
+        },
+        {
+            "name": "text_short",
+            "class": "solr.TextField",
+            "multiValued": false,
+            "indexAnalyzer": {
+                "tokenizer": {
+                    "class": "solr.StandardTokenizerFactory"
+                },
+                "filters":[
+                    {
+                        "class":"solr.ASCIIFoldingFilterFactory", 
+                        "preserveOriginal": false
+                    },
+                    {
+                        "class":"solr.LowerCaseFilterFactory" 
+                    },
+                    {
+                        "class":"solr.ClassicFilterFactory"
+                    },
+                    {
+                        "class": "solr.KStemFilterFactory"
+                    }
+                ]
+            },
+            "queryAnalyzer": {
+                "tokenizer": {
+                    "class": "solr.StandardTokenizerFactory"
+                },
+                "filters":[
+                    {
+                        "class":"solr.ASCIIFoldingFilterFactory", 
+                        "preserveOriginal": false
+                    },
+                    {
+                        "class":"solr.LowerCaseFilterFactory" 
+                    },
+                    {
+                        "class":"solr.ClassicFilterFactory"
+                    },
+                    {
+                        "class": "solr.KStemFilterFactory"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "text_long",
+            "class": "solr.TextField",
+            "multiValued": false,
+            "indexAnalyzer": {
+                "tokenizer": {
+                    "class": "solr.ClassicTokenizerFactory"
+                },
+                "filters":[
+                    {
+                        "class":"solr.ASCIIFoldingFilterFactory", 
+                        "preserveOriginal": false
+                    },
+                    {
+                        "class":"solr.LowerCaseFilterFactory" 
+                    },
+                    {
+                        "class": "solr.StopFilterFactory",
+                        "words": "lang/stopwords_en.txt",
+                        "ignoreCase": true
+                    },
+                    {
+                        "class":"solr.ClassicFilterFactory"
+                    },
+                    {
+                        "class": "solr.KStemFilterFactory"
+                    },
+                    {
+                        "class": "solr.SynonymGraphFilterFactory",
+                        "synonyms": "synonyms.txt",
+                        "ignoreCase": true,
+                        "expand": true
+                    }
+                ]
+            },
+            "queryAnalyzer": {
+                "tokenizer": {
+                    "class": "solr.ClassicTokenizerFactory"
+                },
+                "filters":[
+                    {
+                        "class":"solr.ASCIIFoldingFilterFactory", 
+                        "preserveOriginal": false
+                    },
+                    {
+                        "class":"solr.LowerCaseFilterFactory" 
+                    },
+                    {
+                        "class": "solr.StopFilterFactory",
+                        "words": "lang/stopwords_en.txt",
+                        "ignoreCase": true
+                    },
+                    {
+                        "class":"solr.ClassicFilterFactory"
+                    },
+                    {
+                        "class": "solr.KStemFilterFactory"
+                    }
+                ]
+            }
+        }
+    ],
+    "add-field": [
+        {
+            "name": "url",
+            "type": "string",
+            "required": true,
+            "indexed": false,
+            "stored": false
+        },
+        {
+            "name": "img_url",
+            "type": "string",
+            "required": true,
+            "indexed": false,
+            "stored": false
+        },
+        {
+            "name": "name",
+            "type": "text_short",
+            "indexed": true,
+            "required": true
+        },
+        {
+            "name": "date",
+            "type": "date_field",
+            "indexed": true
+        },
+        {
+            "name": "categories",
+            "type": "text_list",
+            "indexed": true
+        },
+        {
+            "name": "all_reviews",
+            "type": "pint",
+            "indexed": true
+        },
+        {
+            "name": "developer",
+            "type": "text_short",
+            "indexed": true
+        },
+        {
+            "name": "desc",
+            "type": "text_long",
+            "indexed": true
+        },
+        {
+            "name": "full_desc",
+            "type": "text_long",
+            "indexed": true
+        },
+        {
+            "name": "price",
+            "type": "price_field",
+            "indexed": true
+        }
+    ]
+}

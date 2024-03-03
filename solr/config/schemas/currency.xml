@@ -1,0 +1,12 @@
+<currencyConfig version="1.0">
+  <rates>
+    <!-- Updated from http://www.exchangerate.com/ at 2023-11-08 -->
+    <rate from="USD" to="ARS" rate="350.0500" comment="ARGENTINA Peso" />
+    <rate from="USD" to="AUD" rate="1.556395" comment="AUSTRALIA Dollar" />
+    <rate from="USD" to="EUR" rate="0.743676" comment="European Euro" />
+    <rate from="USD" to="CAD" rate="1.375149" comment="CANADA Dollar" />
+
+    <!-- Asymmetrical rates -->
+    <rate from="EUR" to="USD" rate="1.067248" />
+  </rates>
+</currencyConfig>

@@ -1,0 +1,1 @@
+http://localhost:8983/solr/games/select?defType=edismax&fl=*%2Cscore&indent=true&lowercaseOperators=true&q.op=AND&q=%222D%20platform*%22~2%0A(%22play%20as%20animal%22~3%5E2%20or%20%22play%20with%20animal%22~3%5E2%20or%20%22control%20animal%22~3%5E2)&qf=full_desc%20desc&rows=48219&useParams=

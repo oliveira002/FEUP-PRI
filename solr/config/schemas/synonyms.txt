@@ -1,0 +1,132 @@
+rts, real-time strategy, real-time simulation, RTS, strategy, Real-Time Tactics, RTT, rtt
+setting, environment, gameplay, Backdrop, World, Realm, Scenario, Landscapes, Locale, Stage, Atmosphere, Terrain, Realm, Background, Backdrop, Universe, Realm, Game World,Virtual Space, Realm, Diorama, Ambiance
+game, play, match, contest, competition, amusement
+will, shall, intend, purpose, desire, want
+advanced, futuristic, progressive, futurist, innovative, modern
+play, engage, participate, perform, act, frolic
+world, globe, earth, universe, cosmos, realm
+player, participant, competitor, contestant, athlete, gamer
+use, utilize, employ, apply, exploit, exercise
+one, single, individual, sole, only, unique
+level, stage, tier, degree, extent, height
+time, duration, period, moment, instance, era
+way, method, manner, approach, means, route
+find, discover, locate, uncover, detect, ascertain
+make, create, produce, craft, build, form
+character, persona, figure, role, individuality, identity
+take, seize, grab, acquire, obtain, fetch
+battle, fight, combat, conflict, skirmish, war
+enemy, foe, adversary, opponent, rival, antagonist
+experience, encounter, undergo, go through, live through, face
+weapon, arm, tool, instrument, equipment, artillery
+friend, companion, pal, buddy, comrade, chum
+fight, combat, battle, engage, confront, struggle
+even, level, equal, balanced, flat, parallel
+help, assist, aid, support, facilitate, collaborate
+feature, aspect, characteristic, attribute, quality, trait
+new, novel, fresh, innovative, original, recent
+need, require, demand, necessitate, want, lack
+set, group, collection, series, assortment, array
+explore, discover, investigate, journey, examine, survey
+story, narrative, tale, plot, storyline, account
+historic, medieval, ancient, historical, history, traditional, past, ancient
+create, generate, produce, make, craft, invent
+skill, ability, expertise, proficiency, talent, capability
+build, construct, assemble, create, erect, form
+challenge, test, trial, ordeal, difficulty, adversity
+now, at present, currently, presently, at the moment, nowadays
+unique, distinct, singular, exclusive, exceptional, individual
+life, existence, being, living, vitality, animation, lifespan
+using, utilizing, employing, applying, utilizing, making use of
+choose, select, pick, opt for, decide, elect
+want, desire, wish, crave, yearn, long for
+control, manage, oversee, command, direct, govern
+many, numerous, several, multiple, various, countless
+power, strength, force, energy, might, authority
+system, structure, framework, organization, arrangement, setup
+well, adequately, suitably, properly, effectively, efficiently
+map, chart, diagram, plan, layout, blueprint
+become, transform, evolve, develop, grow, turn into
+team, group, squad, crew, unit, ensemble
+fun, enjoyment, amusement, pleasure, delight, merriment
+available, accessible, obtainable, ready, on hand, at hand
+mode, manner, method, style, approach, fashion
+item, object, thing, article, commodity, product
+order, command, directive, instruction, decree, mandate
+people, individuals, persons, populace, community, society
+mission, task, assignment, undertaking, job, quest
+terrain, scenery, landscapes, landscape, topography, environment, panorama
+end, conclusion, finish, termination, closure, completion
+adventure, journey, quest, expedition, exploration, odyssey
+gameplay, game mechanics, playability, gaming experience, interactive experience, user engagement
+start, begin, commence, initiate, launch, kick off
+work, labor, job, task, employment, occupation
+ship, vessel, boat, craft, seafaring, maritime
+see, observe, perceive, notice, witness, view
+upgrade, improve, enhance, update, boost, elevate
+puzzle, riddle, enigma, mystery, problem, challenge
+monster, creature, beast, fiend, entity, being
+free, liberated, unrestrained, unrestricted, open, unbound
+try, attempt, endeavor, strive, aim, undertake
+survive, endure, live, last, persist, withstand
+first, initial, inaugural, primary, opening, maiden
+city, town, metropolis, municipality, urban center, community
+save, rescue, preserve, protect, spare, safeguard
+come, arrive, approach, appear, enter, reach
+complete, finish, accomplish, achieve, fulfill, conclude
+part, portion, section, segment, component, division
+go, move, travel, proceed, advance, journey
+easy, simple, straightforward, uncomplicated, effortless, facile
+best, finest, optimal, supreme, premier, top
+keep, retain, maintain, preserve, hold, safeguard
+attack, assault, strike, charge, assail, pounce
+change, alter, modify, transform, adjust, vary
+able, capable, competent, skilled, proficient, adept
+discover, find out, unearth, learn, detect, ascertain
+enjoy, relish, savor, delight in, appreciate, revel in
+place, location, spot, site, position, area
+including, inclusive of, incorporating, comprising, encompassing, containing
+two, pair, duo, twosome, couple, dyad
+support, aid, assistance, help, backing, encouragement
+move, motion, movement, action, maneuver, shift
+lot, abundance, plenty, myriad, multitude, heap
+full, complete, total, entire, whole, comprehensive
+command, place, manage
+rpg, RPG, role-playing game, adventure game, story-driven game, questing game, quest game
+army, military, armed forces, troops, forces, militia
+enemy, adversary, foe, opponent, rival, antagonist
+content, substance, material, subject matter, content matter, text
+around, surrounding, encircling, encompassing, nearby, neighboring
+different, diverse, varied, assorted, distinct, various
+day, daytime, daylight, 24 hours, diurnal, period
+back, rear, behind, spine, posterior, reverse
+bring, carry, convey, transport, fetch, deliver
+post-apocalypse, post-apocalyptic
+apocalypse, apocalyptic, post-apocalypse,  post-apocalyptic
+fps, first person shooter, FPS, first-person shooter, shooter, first-person action, first-person gunplay, first person action,  first person gunplay
+unlock, open, release, free, unblock, liberate
+space, cosmos, universe, outer space, celestial space, galactic space
+learn, acquire knowledge, study, gain insights, educate oneself, absorb information
+run, jog, sprint, dash, gallop, race
+building, structure, edifice, construction, facility, establishment
+point, dot, spot, speck, mark, location
+war, conflict, warfare, battle, struggle, combat
+give, provide, offer, present, bestow, grant
+land, ground, terrain, soil, earth, surface
+master, expert, authority, specialist, adept, virtuoso
+secret, hidden, concealed, confidential, covert, clandestine
+allow, permit, enable, authorize, sanction, grant
+custom, tailor-made, bespoke, personalized, made-to-order, unique
+player-made, user-generated, player-created, community-built, fan-crafted
+live, exist, dwell, reside, be alive, survive
+may, might, could, can, possible, feasible
+used, utilized, employed, applied, utilized, made use of
+collect, gather, accumulate, assemble, amass, compile
+much, many, a lot, plenty, numerous, abundant
+made, created, manufactured, crafted, produced, formed
+include, incorporate, encompass, involve, comprise, contain
+great, excellent, superb, outstanding, remarkable, magnificent
+everything, all, every single thing, the whole thing, the entirety, the whole shebang
+turn, rotate, revolve, spin
+underwater, submerged, subaqueous, submersed, submerged, aquatic
+animal, fishlike, ameba-like, horselike, shrimp-like, goat-like, elephant-like, ant-like, alligator-like, sloth-like, snail-like, vole-like, scorpion-like, amoeba-like, mongoose-like, perch-like, quail-like, snake-like, pike-like, siskin-like, ostrich-like, snake-shaped, grub-like, cod-like, horse-like, stork-like, cricket-like, duck-like, sparrow-like, hawk-like, carp-like, spitz-like, beaver-like, eaglelike, lobster-like, moth-like, reptile-like, starfish-like, thrush-like, animal-like, bee-like, insectlike, dinosaur-like, hawklike, eagle-like, troutlike, cicada-like, crocodile-like, monkey-like, cranelike, insect-like, dace-like, raccoon-like, mullet-like, tadpole-like, cow-like, fox-like, antelope-like, lizard-like, birdlike, catlike, shad-like, whippoorwill-like, crane-like, foxlike, tuna-like, pigeon-like, turkey-like, deer-like, sandpiper-like, hare-like, badger-like, bird-like, plover-like, squirrel-like, gull-like, arachnid-like, salmon-like, cat-like, ferret-like, mammal-like, Dog, Cat, Elephant, Giraffe, Lion, Tiger, Bear, Wolf, Dolphin, Whale, Penguin, Koala, Kangaroo, Gorilla, Cheetah, Zebra, Monkey, Snake, Turtle, Fish, Eagle, Owl, Frog, Butterfly, Horse, Cow, Pig, Sheep, Chicken, Duck, Rhino, Hippopotamus, Crocodile, Alligator, Panda, Red Panda, Sloth, Armadillo, Chimpanzee, Orangutan, Lemur, Meerkat, Hyena, Ostrich, Alpaca, Llama, Fox, Otter, Seal, Walrus, Polar Bear, Red Fox, Komodo Dragon, Bison, Tasmanian Devil, Platypus, Anteater, Aardvark, Tapir, Peacock, Parrot, Cockatoo, Toucan, Eagle, Hawk, Falcon, Jellyfish, Octopus, Starfish, Sea Horse, Sea Lion, Manatee, Swordfish, Shark, Clownfish, Pufferfish, Axolotl, Salamander, Newt, Hummingbird, Pelican, Pigeon, Corgi, Dachshund, Shih Tzu, Poodle, Raccoon, Hedgehog, Sugar Glider, Ferret, Hamster, Guinea Pig, Rat, Mouse, Gerbil, Ferret, Chinchilla, Squirrel, Camel, Mantis

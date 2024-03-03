@@ -1,0 +1,9 @@
+{
+    "add-field": [
+        {
+            "name": "all_reviews",
+            "type": "pint",
+            "indexed": true
+        }
+    ]
+}

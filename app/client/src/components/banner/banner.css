@@ -1,0 +1,222 @@
+.banner {
+    display: flex;
+    flex-direction: column;
+    max-width: 75%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    position: relative;
+}
+
+.banner img {
+    object-fit: cover;
+    width: 100%;
+    height: 490px;
+    border-radius: 5px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+a.check {
+    text-decoration: none;
+    color: white;
+}
+
+a.check:hover {
+    text-decoration: none;
+    color: white;
+}
+.check {
+    border-radius: 12px;
+    outline: none;
+    padding: 2px 6px 2px 6px;
+    background: none;
+    color: white;
+    border: 2px solid white;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.check:hover {
+    animation: pulse 1s infinite;
+    transition: .3s;
+}
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    70% {
+        transform: scale(.9);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.subtitle {
+    width: 350px;
+    color: white;
+    text-shadow: 1px 1px 1px #919191;
+}
+.banner .title {
+    width: 70%;
+    font-size: 60px;
+    color: white;
+    text-shadow: 1px 1px 1px #919191,
+    1px 2px 1px #919191,
+    1px 3px 1px #919191,
+    1px 4px 1px #919191,
+    1px 5px 1px #919191,
+    1px 6px 1px #919191,
+    1px 3px 1px #919191,
+    1px 3px 1px #919191,
+    1px 3px 1px #919191,
+    1px 4px 1px #919191,
+    1px 4px 6px rgba(16,16,16,0.4),
+    1px 5px 10px rgba(16,16,16,0.2),
+    1px 6px 35px rgba(16,16,16,0.2),
+    1px 7px 60px rgba(16,16,16,0.4);
+    letter-spacing: -4px;
+}
+
+.banRating {
+    margin-left: 0.5em;
+    justify-content: center;
+    align-items: center;
+}
+.banRating span{
+    color: white;
+    text-shadow: 1px 1px 1px #919191;
+}
+
+.banRating svg {
+    margin-left: 0.25em;
+    color: white;
+    color: #ffa54e;
+    text-shadow: 1px 1px 1px black;
+}
+
+.bannerText {
+    top: 75px;
+    left: 100px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+}
+
+.overText {
+    display: flex;
+    position: absolute;
+    z-index: 9999;
+    left: 37%;
+    top: 150px;
+}
+
+.movieBanner {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    color: white;
+}
+
+.movieBanner img.bgg {
+    object-fit: cover;
+    width: 100%;
+    height: 580px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    filter: brightness(55%);
+}
+
+.titulo {
+    width: 750px;
+}
+.movieBanner .title {
+    font-size: 45px;
+    color: white;
+    text-shadow: 0 4.36px 6.896px #000000,0 -1px 1px #fff;
+}
+
+.movieBanner .sec {
+    display: flex;
+    font-size: 18px;
+    color: white;
+    margin: 0;
+}
+
+.movieBanner li {
+    margin-right: 0.5em;
+}
+
+.movieBanner ul {
+    padding: 0;
+}
+
+.undertitle {
+    color: rgb(255 202 0 / 86%);
+    text-shadow: .1em .1em 0 hsl(0, 0%, 18%);
+}
+
+.tag {
+    font-style: italic;
+    margin: 0;
+}
+
+.overview {
+    width: 740px;
+}
+
+.posterpic {
+    position: absolute;
+    left: 20%;
+    top: 100px;
+    z-index: 9999;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    transition: transform .2s;
+}
+
+.posterpic:hover {
+    transform: scale(1.02);
+}
+
+a.check2:hover {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.91);
+}
+
+a.check3:hover {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+}
+
+a.check3 {
+    text-decoration: none;
+    width: fit-content;
+    outline: none;
+    padding: 4px 16px 4px 16px;
+    color: rgba(241, 241, 241, 1);
+    background: #131425;
+    border: none;
+    border-radius: 4px;
+    transition: transform .2s;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+a.check2 {
+    text-decoration: none;
+    width: fit-content;
+    outline: none;
+    padding: 4px 16px 4px 16px;
+    color: rgba(0, 0, 0, 0.91);
+    background: #fdfdfd;
+    border: none;
+    border-radius: 4px;
+    transition: transform .2s;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+.check2:hover {
+    transform: scale(1.02);
+}
+
+.check3:hover {
+    transform: scale(1.02);
+}
+

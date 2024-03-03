@@ -1,0 +1,1 @@
+http://localhost:8983/solr/games/select?bf=product(if(exists(query(%7B!v%3D%27name%3A%22RPG%22%27%7D))%2C2%2C1)%2Cexp(product(all_reviews%2C0.03)))&defType=edismax&fl=*%2Cscore&indent=true&lowercaseOperators=true&q.op=AND&q=%22open%20world%22~2%5E2%0A%22RPG%22%5E3%0A%22fantasy%20realms%22~2%5E2&qf=full_desc%20desc&rows=48219&useParams=&wt=json

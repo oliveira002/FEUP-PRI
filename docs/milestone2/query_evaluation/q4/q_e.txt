@@ -1,0 +1,1 @@
+http://localhost:8983/solr/games/select?bf=linear(all_reviews%2C0%2C100)%5E1.5&defType=edismax&fl=*%2Cscore&indent=true&lowercaseOperators=true&q.op=AND&q=(historical)%5E2%20and%20(command%20army)%5E3&qf=full_desc%20desc&rows=50&useParams=&wt=json

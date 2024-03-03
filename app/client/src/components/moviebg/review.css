@@ -1,0 +1,40 @@
+.box {
+    width: 100%;
+ 
+    padding: 10px 30px 30px 30px;
+    box-shadow: rgb(14 30 37 / 12%) 0px 1px 1px 0px, rgb(14 30 37 / 32%) 0px 2px 4px 0px;
+    border-radius: 8px;
+}
+
+.box img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.poster{
+    width:250px;
+    height:380px;
+}
+.truncated{
+    font-size: smaller;
+}
+.max-lines {
+    display: block;/* or inline-block */
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    overflow: hidden;
+    max-height: 9.4em;
+    line-height: 1.8em;
+    color: #919db3;
+    font-size: smaller;
+    font-weight: 600;
+
+}
+
+.box p {
+    margin: 0;
+}
+
+.authorRate, .authorRate svg {
+    color: #ffc32b;
+}
